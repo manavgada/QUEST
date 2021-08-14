@@ -15,5 +15,5 @@ Function Descriptions:
 14) Z: Forms a column vector Z from some elements of 'B'.
 
 Other Files:
-input: Program fetches input from this file and also stores a copy of output here for internal purposes.
-output: Program copies the output to this file for furthur purposes.
+1) input: Program fetches input from this file and also stores a copy of output here for internal purposes.
+2) output: Program copies the output to this file for furthur purposes.
